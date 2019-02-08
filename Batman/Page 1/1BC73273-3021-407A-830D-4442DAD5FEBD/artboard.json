@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "f434efe0-2bd1-11e9-a1cc-311506a1ac5b",
+  "do_objectID": "1BC73273-3021-407A-830D-4442DAD5FEBD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,49 +22,49 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 119,
+    "width": 138,
+    "x": 199,
+    "y": 269
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "FB194BA2-A07B-4AD5-9600-88CEF0ED4058"
+      "class": "rectangle",
+      "id": "6849A211-27BC-436F-BDA0-3E129F34C07A"
     },
     {
-      "class": "artboard",
-      "id": "1F72CA17-1D57-41CC-8F26-ABB30ABBBCFD"
-    },
-    {
-      "class": "artboard",
-      "id": "1BC73273-3021-407A-830D-4442DAD5FEBD"
+      "class": "rectangle",
+      "id": "1F567EC4-26BA-4207-9A3C-9812AF7F999E"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "r",
+  "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -65,14 +72,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
