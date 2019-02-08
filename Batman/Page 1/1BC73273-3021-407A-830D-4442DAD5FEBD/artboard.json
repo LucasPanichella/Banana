@@ -47,15 +47,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6849A211-27BC-436F-BDA0-3E129F34C07A"
+      "class": "oval",
+      "id": "7CF037D4-7447-4A9A-88FC-E7145FC704E6"
     },
     {
-      "class": "rectangle",
-      "id": "1F567EC4-26BA-4207-9A3C-9812AF7F999E"
+      "class": "oval",
+      "id": "A0A1DFEC-883D-47F5-AEA2-EFDF5B6720EB"
     }
   ],
   "name": "r",
